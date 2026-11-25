@@ -1,0 +1,10 @@
+{
+  "name": "prove-it",
+  "version": "0.1.0",
+  "description": "Debugging discipline: no fix without a failing reproduction, no 'fixed' without the same reproduction passing.",
+  "author": { "name": "Sacha", "url": "https://github.com/sacha-riccardo-leone" },
+  "homepage": "https://github.com/sacha-riccardo-leone/prove-it",
+  "repository": "https://github.com/sacha-riccardo-leone/prove-it",
+  "license": "MIT",
+  "keywords": ["debugging", "testing", "bugs", "tdd"]
+}

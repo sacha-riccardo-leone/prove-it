@@ -1,0 +1,17 @@
+{
+  "name": "prove-it",
+  "owner": {
+    "name": "sacha-riccardo-leone"
+  },
+  "metadata": {
+    "description": "Debugging discipline: no fix without a failing reproduction, no 'fixed' without the same reproduction passing."
+  },
+  "plugins": [
+    {
+      "name": "prove-it",
+      "source": "./",
+      "description": "Debugging discipline: no fix without a failing reproduction, no 'fixed' without the same reproduction passing.",
+      "version": "0.1.0"
+    }
+  ]
+}
